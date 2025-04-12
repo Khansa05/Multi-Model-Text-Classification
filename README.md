@@ -23,6 +23,7 @@ This is a Streamlit-based application that uses three machine learning models â€
 - `vectorizer.pkl`: Text vectorizer (CountVectorizer or TF-IDF)
 - `tokenizer.pkl`: Tokenizer for LSTM model
 - `README.md`: Project description
+- `Real_Fake_News_Detection.docx`: Project Description document
 
 ## ðŸ§ª How It Works
 
